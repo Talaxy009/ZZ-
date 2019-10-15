@@ -72,6 +72,6 @@ void B()
 			n++;
 		}
 		cout << endl;
-		x = x + 0.3; n = 1;
+		x = x + 0.2; n = 1;
 	}
 }
